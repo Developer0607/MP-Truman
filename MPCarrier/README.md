@@ -1,2 +1,2 @@
 # MP_Truman
-Multiplayer Truman for FlightGear
+Multiplayer Carrier Truman for FlightGear
